@@ -1,0 +1,3 @@
+User-agent: *
+Allow:
+Sitemap: https://www.sgssspl.com/sitemap.xml
